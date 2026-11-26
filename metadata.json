@@ -1,0 +1,6 @@
+{
+  "name": "HR Workbench",
+  "description": "Human Resources Management workbench for employee records, probation and contract alerts, bulk operations, CSV import/export, and full undo/redo history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
